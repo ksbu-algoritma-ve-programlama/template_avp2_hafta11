@@ -1,4 +1,4 @@
-﻿**Github Classroom ile Hafta 10 Lab Uygulaması** 
+﻿**Github Classroom ile Hafta 11 Lab Uygulaması** 
 
 Uygulama için sizinle paylaşılan link ile oluşturulan Github kod deposu (repository) içerisine sadece sizden istenilen ve aşağıda belirtilen formatta dosyayı yükleyiniz. Yükleyeceğiniz dosya isimlerinde ve yazacağınız  kodda  fonksiyon  isimleri,  giriş  argümanları  ve  çıkış  tipleri  belirtilen  şekilde  olmalıdır. Sistemin yazdığınız kodları notlandırabilmesi için yazdığınız kodun çalışıyor olması gerekmektedir. 
 
